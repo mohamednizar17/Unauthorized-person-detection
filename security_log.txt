@@ -1,0 +1,781 @@
+
+2025-06-27 19:38:56: Unauthorized
+2025-06-27 19:38:58: Unauthorized
+2025-06-27 19:38:59: Unauthorized
+2025-06-27 19:38:59: Unauthorized
+2025-06-27 19:39:00: Unauthorized
+2025-06-27 19:39:00: Unauthorized
+2025-06-27 19:39:00: Unauthorized
+2025-06-27 19:39:02: Unauthorized
+2025-06-27 19:39:02: Unauthorized
+2025-06-27 19:39:02: Unauthorized
+2025-06-27 19:39:02: Unauthorized
+2025-06-27 19:39:02: Unauthorized
+2025-06-27 19:39:04: Unauthorized
+2025-06-27 19:39:14: Unauthorized
+2025-06-27 19:39:28: Unauthorized
+2025-06-27 19:39:29: Unauthorized
+2025-06-27 19:39:30: Unauthorized
+2025-06-27 19:39:30: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:47: Unauthorized
+2025-06-27 19:39:49: Unauthorized
+2025-06-27 19:49:42: Unauthorized
+2025-06-27 19:49:45: Unauthorized
+2025-06-27 19:49:48: Unauthorized
+2025-06-27 19:49:48: Unauthorized
+2025-06-27 19:49:48: Unauthorized
+2025-06-27 19:49:49: Unauthorized
+2025-06-27 19:49:49: Unauthorized
+2025-06-27 19:49:49: Unauthorized
+2025-06-27 19:49:49: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:50: Unauthorized
+2025-06-27 19:49:51: Unauthorized
+2025-06-27 19:49:53: Unauthorized
+2025-06-27 19:49:53: Unauthorized
+2025-06-27 19:49:55: Unauthorized
+2025-06-27 19:49:55: Unauthorized
+2025-06-27 19:49:58: Unauthorized
+2025-06-27 19:49:58: Unauthorized
+2025-06-27 19:49:58: Unauthorized
+2025-06-27 19:50:00: Unauthorized
+2025-06-27 19:50:00: Unauthorized
+2025-06-27 19:50:01: Unauthorized
+2025-06-27 19:50:01: Unauthorized
+2025-06-27 19:50:01: Unauthorized
+2025-06-27 19:50:01: Unauthorized
+2025-06-27 19:50:01: Unauthorized
+2025-06-27 19:50:01: Unauthorized
+2025-06-27 19:50:02: Unauthorized
+2025-06-27 19:50:02: Unauthorized
+2025-06-27 19:50:02: Unauthorized
+2025-06-27 19:50:02: Unauthorized
+2025-06-27 19:50:02: Unauthorized
+2025-06-27 19:50:02: Unauthorized
+2025-06-27 19:50:02: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:03: Unauthorized
+2025-06-27 19:50:04: Unauthorized
+2025-06-27 19:50:04: Unauthorized
+2025-06-27 19:50:04: Unauthorized
+2025-06-27 19:50:04: Unauthorized
+2025-06-27 19:50:04: Unauthorized
+2025-06-27 19:50:04: Unauthorized
+2025-06-27 19:50:04: Unauthorized
+2025-06-27 19:50:05: Unauthorized
+2025-06-27 19:50:05: Unauthorized
+2025-06-27 19:50:05: Unauthorized
+2025-06-27 19:50:05: Unauthorized
+2025-06-27 19:50:05: Unauthorized
+2025-06-27 19:50:05: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:06: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:07: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:08: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:09: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:10: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:11: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:12: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:13: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:14: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:15: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:16: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:17: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:18: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:19: Unauthorized
+2025-06-27 19:50:20: Unauthorized
+2025-06-27 19:50:21: Unauthorized
+2025-06-27 19:50:21: Unauthorized
+2025-06-27 19:50:21: Unauthorized
+2025-06-27 19:50:22: Unauthorized
+2025-06-27 19:50:24: Unauthorized
+2025-06-27 19:50:25: Unauthorized
+2025-06-27 19:50:26: Unauthorized
+2025-06-27 19:50:26: Unauthorized
+2025-06-27 19:50:26: Unauthorized
+2025-06-27 19:50:26: Unauthorized
+2025-06-27 19:50:27: Unauthorized
+2025-06-27 19:50:27: Unauthorized
+2025-06-27 19:50:28: Unauthorized
+2025-06-27 19:50:29: Unauthorized
+2025-06-27 19:50:29: Unauthorized
+2025-06-27 19:50:29: Unauthorized
+2025-06-27 19:50:29: Unauthorized
+2025-06-27 19:50:29: Unauthorized
+2025-06-27 19:54:39: Unauthorized
+2025-06-27 19:54:40: Unauthorized
+2025-06-27 19:54:44: Unauthorized
+2025-06-27 19:54:44: Unauthorized
+2025-06-27 19:54:44: Unauthorized
+2025-06-27 19:54:50: Unauthorized
+2025-06-27 19:54:50: Unauthorized
+2025-06-27 19:54:50: Unauthorized
+2025-06-27 19:54:51: Unauthorized
+2025-06-27 19:54:51: Unauthorized
+2025-06-27 19:54:51: Unauthorized
+2025-06-27 19:54:52: Unauthorized
+2025-06-27 19:54:53: Unauthorized
+2025-06-27 19:54:53: Unauthorized
+2025-06-27 19:54:53: Unauthorized
+2025-06-27 19:54:53: Unauthorized
+2025-06-27 19:54:53: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:54: Unauthorized
+2025-06-27 19:54:55: Unauthorized
+2025-06-27 19:54:55: Unauthorized
+2025-06-27 19:54:55: Unauthorized
+2025-06-27 19:54:55: Unauthorized
+2025-06-27 19:54:55: Unauthorized
+2025-06-27 19:54:55: Unauthorized
+2025-06-27 19:54:55: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:56: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:57: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:58: Unauthorized
+2025-06-27 19:54:59: Unauthorized
+2025-06-27 19:54:59: Unauthorized
+2025-06-27 19:54:59: Unauthorized
+2025-06-27 19:54:59: Unauthorized
+2025-06-27 19:54:59: Unauthorized
+2025-06-27 19:54:59: Unauthorized
+2025-06-27 19:54:59: Unauthorized
+2025-06-27 19:55:00: Unauthorized
+2025-06-27 19:55:00: Unauthorized
+2025-06-27 19:55:00: Unauthorized
+2025-06-27 19:55:01: Unauthorized
+2025-06-27 19:55:01: Unauthorized
+2025-06-27 19:55:01: Unauthorized
+2025-06-27 19:55:01: Unauthorized
+2025-06-27 19:55:01: Unauthorized
+2025-06-27 19:55:01: Unauthorized
+2025-06-27 19:55:01: Unauthorized
+2025-06-27 19:55:02: Unauthorized
+2025-06-27 19:55:02: Unauthorized
+2025-06-27 19:55:02: Unauthorized
+2025-06-27 19:55:02: Unauthorized
+2025-06-27 19:55:02: Unauthorized
+2025-06-27 19:55:02: Unauthorized
+2025-06-27 19:55:03: Unauthorized
+2025-06-27 19:55:03: Unauthorized
+2025-06-27 19:55:04: Unauthorized
+2025-06-27 19:57:02: Unauthorized
+2025-06-27 19:57:05: Unauthorized
+2025-06-27 19:57:05: Unauthorized
+2025-06-27 19:57:06: Unauthorized
+2025-06-27 19:57:06: Unauthorized
+2025-06-27 19:57:06: Unauthorized
+2025-06-27 19:57:06: Unauthorized
+2025-06-27 19:57:06: Unauthorized
+2025-06-27 19:57:06: Unauthorized
+2025-06-27 19:57:06: Unauthorized
+2025-06-27 19:57:07: Unauthorized
+2025-06-27 19:57:07: Unauthorized
+2025-06-27 19:57:10: Unauthorized
+2025-06-27 19:57:12: Unauthorized
+2025-06-27 19:57:12: Unauthorized
+2025-06-27 19:57:18: Unauthorized
+2025-06-27 19:57:18: Unauthorized
+2025-06-27 19:57:19: Unauthorized
+2025-06-27 19:57:19: Unauthorized
+2025-06-27 19:57:19: Unauthorized
+2025-06-27 19:57:19: Unauthorized
+2025-06-27 19:57:19: Unauthorized
+2025-06-27 19:57:19: Unauthorized
+2025-06-27 19:57:19: Unauthorized
+2025-06-27 19:57:20: Unauthorized
+2025-06-27 19:57:20: Unauthorized
+2025-06-27 19:57:20: Unauthorized
+2025-06-27 19:57:20: Unauthorized
+2025-06-27 19:57:20: Unauthorized
+2025-06-27 19:57:21: Unauthorized
+2025-06-27 19:57:21: Unauthorized
+2025-06-27 19:57:21: Unauthorized
+2025-06-27 19:57:21: Unauthorized
+2025-06-27 19:57:21: Unauthorized
+2025-06-27 19:57:21: Unauthorized
+2025-06-27 19:57:21: Unauthorized
+2025-06-27 19:57:25: Unauthorized
+2025-06-27 19:57:25: Unauthorized
+2025-06-27 19:57:28: Unauthorized
+2025-06-27 19:57:28: Unauthorized
+2025-06-27 19:57:28: Unauthorized
+2025-06-27 19:57:28: Unauthorized
+2025-06-27 19:57:28: Unauthorized
+2025-06-27 19:57:28: Unauthorized
+2025-06-27 19:57:30: Unauthorized
+2025-06-27 19:57:30: Unauthorized
+2025-06-27 19:57:30: Unauthorized
+2025-06-27 19:57:34: Unauthorized
+2025-06-27 19:57:35: Unauthorized
+2025-06-27 19:57:35: Unauthorized
+2025-06-27 19:57:36: Unauthorized
+2025-06-27 19:57:38: Unauthorized
+2025-06-27 19:57:42: Unauthorized
+2025-06-27 19:57:42: Unauthorized
+2025-06-27 19:57:43: Unauthorized
+2025-06-27 19:57:43: Unauthorized
+2025-06-27 19:57:43: Unauthorized
+2025-06-27 19:57:43: Unauthorized
+2025-06-27 19:57:44: Unauthorized
+2025-06-27 19:57:44: Unauthorized
+2025-06-27 19:57:44: Unauthorized
+2025-06-27 19:57:44: Unauthorized
+2025-06-27 19:57:45: Unauthorized
+2025-06-27 19:57:45: Unauthorized
+2025-06-27 19:57:45: Unauthorized
+2025-06-27 19:57:45: Unauthorized
+2025-06-27 19:57:45: Unauthorized
+2025-06-27 19:57:46: Unauthorized
+2025-06-27 19:57:46: Unauthorized
+2025-06-27 19:57:46: Unauthorized
+2025-06-27 19:57:46: Unauthorized
+2025-06-27 19:57:46: Unauthorized
+2025-06-27 19:57:47: Unauthorized
+2025-06-27 19:57:47: Unauthorized
+2025-06-27 19:57:47: Unauthorized
+2025-06-27 19:57:47: Unauthorized
+2025-06-27 19:57:48: Unauthorized
+2025-06-27 19:57:48: Unauthorized
+2025-06-27 19:57:48: Unauthorized
+2025-06-27 19:57:48: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:49: Unauthorized
+2025-06-27 19:57:50: Unauthorized
+2025-06-27 19:57:50: Unauthorized
+2025-06-27 19:57:50: Unauthorized
+2025-06-27 19:57:50: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:51: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:52: Unauthorized
+2025-06-27 19:57:55: Unauthorized
+2025-06-27 19:57:55: Unauthorized
+2025-06-27 19:57:55: Unauthorized
+2025-06-27 19:57:56: Unauthorized
+2025-06-27 19:57:56: Unauthorized
+2025-06-27 19:57:56: Unauthorized
+2025-06-27 19:57:56: Unauthorized
+2025-06-27 19:57:56: Unauthorized
+2025-06-27 19:57:56: Unauthorized
+2025-06-27 19:57:58: Unauthorized
+2025-06-27 19:57:58: Unauthorized
+2025-06-27 19:57:58: Unauthorized
+2025-06-27 19:57:58: Unauthorized
+2025-06-27 19:58:00: Unauthorized
+2025-06-27 19:58:01: Unauthorized
+2025-06-27 19:58:01: Unauthorized
+2025-06-27 19:58:03: Unauthorized
+2025-06-27 19:58:04: Unauthorized
+2025-06-27 19:58:04: Unauthorized
+2025-06-27 19:58:05: Unauthorized
+2025-06-27 19:58:05: Unauthorized
+2025-06-27 19:58:05: Unauthorized
+2025-06-27 19:58:05: Unauthorized
+2025-06-27 19:58:05: Unauthorized
+2025-06-27 19:58:05: Unauthorized
+2025-06-27 19:58:06: Unauthorized
+2025-06-27 19:58:06: Unauthorized
+2025-06-27 19:58:06: Unauthorized
+2025-06-27 19:58:06: Unauthorized
+2025-06-27 19:58:06: Unauthorized
+2025-06-27 19:58:06: Unauthorized
+2025-06-27 19:58:06: Unauthorized
+2025-06-27 19:58:09: Unauthorized
+2025-06-27 19:58:09: Unauthorized
+2025-06-30 10:55:32,374 - INFO - Unauthorized face detected at 2025-06-30 10:55:30
+2025-06-30 10:55:33,374 - INFO - Unauthorized face detected at 2025-06-30 10:55:32
+2025-06-30 10:55:34,460 - INFO - Unauthorized face detected at 2025-06-30 10:55:33
+2025-06-30 10:55:35,461 - INFO - Unauthorized face detected at 2025-06-30 10:55:34
+2025-06-30 10:55:36,523 - INFO - Unauthorized face detected at 2025-06-30 10:55:35
+2025-06-30 10:55:37,592 - INFO - Unauthorized face detected at 2025-06-30 10:55:37
+2025-06-30 10:55:38,674 - INFO - Unauthorized face detected at 2025-06-30 10:55:38
+2025-06-30 10:55:39,780 - INFO - Unauthorized face detected at 2025-06-30 10:55:39
+2025-06-30 10:55:40,912 - INFO - Unauthorized face detected at 2025-06-30 10:55:40
+2025-06-30 10:55:42,053 - INFO - Unauthorized face detected at 2025-06-30 10:55:41
+2025-06-30 10:55:43,185 - INFO - Unauthorized face detected at 2025-06-30 10:55:42
+2025-06-30 10:55:44,301 - INFO - Unauthorized face detected at 2025-06-30 10:55:43
+2025-06-30 10:55:45,369 - INFO - Unauthorized face detected at 2025-06-30 10:55:44
+2025-06-30 10:55:46,461 - INFO - Unauthorized face detected at 2025-06-30 10:55:45
+2025-06-30 10:55:48,634 - INFO - Unauthorized face detected at 2025-06-30 10:55:48
+2025-06-30 10:55:49,711 - INFO - Unauthorized face detected at 2025-06-30 10:55:49
+2025-06-30 10:55:50,827 - INFO - Unauthorized face detected at 2025-06-30 10:55:50
+2025-06-30 10:55:51,912 - INFO - Unauthorized face detected at 2025-06-30 10:55:51
+2025-06-30 10:55:52,686 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 10:55:52,686 - INFO - Unauthorized face detected at 2025-06-30 10:55:52
+2025-06-30 10:55:57,036 - INFO - Unauthorized face detected at 2025-06-30 10:55:56
+2025-06-30 10:55:59,182 - INFO - Unauthorized face detected at 2025-06-30 10:55:58
+2025-06-30 10:56:00,176 - INFO - Unauthorized face detected at 2025-06-30 10:55:59
+2025-06-30 10:56:01,146 - INFO - Unauthorized face detected at 2025-06-30 10:56:00
+2025-06-30 10:56:02,131 - INFO - Unauthorized face detected at 2025-06-30 10:56:01
+2025-06-30 10:56:03,085 - INFO - Unauthorized face detected at 2025-06-30 10:56:02
+2025-06-30 10:56:04,083 - INFO - Unauthorized face detected at 2025-06-30 10:56:03
+2025-06-30 10:56:05,984 - INFO - Unauthorized face detected at 2025-06-30 10:56:05
+2025-06-30 10:56:08,128 - INFO - Unauthorized face detected at 2025-06-30 10:56:07
+2025-06-30 10:56:09,219 - INFO - Unauthorized face detected at 2025-06-30 10:56:08
+2025-06-30 10:56:10,324 - INFO - Unauthorized face detected at 2025-06-30 10:56:09
+2025-06-30 10:56:11,379 - INFO - Unauthorized face detected at 2025-06-30 10:56:10
+2025-06-30 10:56:12,476 - INFO - Unauthorized face detected at 2025-06-30 10:56:11
+2025-06-30 10:56:13,548 - INFO - Unauthorized face detected at 2025-06-30 10:56:13
+2025-06-30 10:56:15,696 - INFO - Unauthorized face detected at 2025-06-30 10:56:15
+2025-06-30 10:56:16,131 - INFO - Unauthorized face detected at 2025-06-30 10:56:15
+2025-06-30 10:56:17,150 - INFO - Unauthorized face detected at 2025-06-30 10:56:16
+2025-06-30 10:56:18,175 - INFO - Unauthorized face detected at 2025-06-30 10:56:17
+2025-06-30 10:56:19,294 - INFO - Unauthorized face detected at 2025-06-30 10:56:18
+2025-06-30 10:56:27,067 - INFO - Unauthorized face detected at 2025-06-30 10:56:26
+2025-06-30 11:05:33,154 - INFO - Unauthorized face detected at 2025-06-30 11:05:32
+2025-06-30 11:05:34,149 - INFO - Unauthorized face detected at 2025-06-30 11:05:33
+2025-06-30 11:05:35,239 - INFO - Unauthorized face detected at 2025-06-30 11:05:34
+2025-06-30 11:05:36,238 - INFO - Unauthorized face detected at 2025-06-30 11:05:35
+2025-06-30 11:05:37,254 - INFO - Unauthorized face detected at 2025-06-30 11:05:36
+2025-06-30 11:05:38,255 - INFO - Unauthorized face detected at 2025-06-30 11:05:37
+2025-06-30 11:05:39,238 - INFO - Unauthorized face detected at 2025-06-30 11:05:38
+2025-06-30 11:05:40,229 - INFO - Unauthorized face detected at 2025-06-30 11:05:39
+2025-06-30 11:05:41,190 - INFO - Unauthorized face detected at 2025-06-30 11:05:40
+2025-06-30 11:05:42,179 - INFO - Unauthorized face detected at 2025-06-30 11:05:41
+2025-06-30 11:05:43,176 - INFO - Unauthorized face detected at 2025-06-30 11:05:42
+2025-06-30 11:05:44,189 - INFO - Unauthorized face detected at 2025-06-30 11:05:43
+2025-06-30 11:05:45,174 - INFO - Unauthorized face detected at 2025-06-30 11:05:44
+2025-06-30 11:05:46,180 - INFO - Unauthorized face detected at 2025-06-30 11:05:45
+2025-06-30 11:05:47,286 - INFO - Unauthorized face detected at 2025-06-30 11:05:46
+2025-06-30 11:05:48,284 - INFO - Unauthorized face detected at 2025-06-30 11:05:47
+2025-06-30 11:05:49,246 - INFO - Unauthorized face detected at 2025-06-30 11:05:48
+2025-06-30 11:05:50,237 - INFO - Unauthorized face detected at 2025-06-30 11:05:49
+2025-06-30 11:05:51,179 - INFO - Unauthorized face detected at 2025-06-30 11:05:50
+2025-06-30 11:05:52,165 - INFO - Unauthorized face detected at 2025-06-30 11:05:51
+2025-06-30 11:05:54,974 - INFO - Unauthorized face detected at 2025-06-30 11:05:54
+2025-06-30 11:05:55,959 - INFO - Unauthorized face detected at 2025-06-30 11:05:55
+2025-06-30 11:05:56,936 - INFO - Unauthorized face detected at 2025-06-30 11:05:56
+2025-06-30 11:05:57,928 - INFO - Unauthorized face detected at 2025-06-30 11:05:57
+2025-06-30 11:05:58,853 - INFO - Unauthorized face detected at 2025-06-30 11:05:58
+2025-06-30 11:05:59,870 - INFO - Unauthorized face detected at 2025-06-30 11:05:59
+2025-06-30 11:06:00,837 - INFO - Unauthorized face detected at 2025-06-30 11:06:00
+2025-06-30 11:06:01,850 - INFO - Unauthorized face detected at 2025-06-30 11:06:01
+2025-06-30 11:06:02,845 - INFO - Unauthorized face detected at 2025-06-30 11:06:02
+2025-06-30 11:06:03,917 - INFO - Unauthorized face detected at 2025-06-30 11:06:03
+2025-06-30 11:06:04,914 - INFO - Unauthorized face detected at 2025-06-30 11:06:04
+2025-06-30 11:06:05,880 - INFO - Unauthorized face detected at 2025-06-30 11:06:05
+2025-06-30 11:06:06,877 - INFO - Unauthorized face detected at 2025-06-30 11:06:06
+2025-06-30 11:06:07,899 - INFO - Unauthorized face detected at 2025-06-30 11:06:07
+2025-06-30 11:06:08,926 - INFO - Unauthorized face detected at 2025-06-30 11:06:08
+2025-06-30 11:06:09,994 - INFO - Unauthorized face detected at 2025-06-30 11:06:09
+2025-06-30 11:06:11,023 - INFO - Unauthorized face detected at 2025-06-30 11:06:10
+2025-06-30 11:06:11,222 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:06:11,229 - INFO - Unauthorized face detected at 2025-06-30 11:06:10
+2025-06-30 11:06:12,718 - INFO - Unauthorized face detected at 2025-06-30 11:06:11
+2025-06-30 11:06:14,183 - INFO - Unauthorized face detected at 2025-06-30 11:06:13
+2025-06-30 11:06:15,680 - INFO - Unauthorized face detected at 2025-06-30 11:06:14
+2025-06-30 11:06:16,740 - INFO - Unauthorized face detected at 2025-06-30 11:06:16
+2025-06-30 11:06:18,628 - INFO - Unauthorized face detected at 2025-06-30 11:06:17
+2025-06-30 11:06:19,764 - INFO - Unauthorized face detected at 2025-06-30 11:06:19
+2025-06-30 11:06:20,781 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:06:20,781 - INFO - Unauthorized face detected at 2025-06-30 11:06:19
+2025-06-30 11:06:22,364 - INFO - Unauthorized face detected at 2025-06-30 11:06:21
+2025-06-30 11:06:23,929 - INFO - Unauthorized face detected at 2025-06-30 11:06:23
+2025-06-30 11:06:25,958 - INFO - Unauthorized face detected at 2025-06-30 11:06:25
+2025-06-30 11:06:27,051 - INFO - Unauthorized face detected at 2025-06-30 11:06:26
+2025-06-30 11:06:28,558 - INFO - Unauthorized face detected at 2025-06-30 11:06:28
+2025-06-30 11:06:28,743 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:06:28,743 - INFO - Unauthorized face detected at 2025-06-30 11:06:28
+2025-06-30 11:06:29,720 - INFO - Unauthorized face detected at 2025-06-30 11:06:29
+2025-06-30 11:06:30,762 - INFO - Unauthorized face detected at 2025-06-30 11:06:30
+2025-06-30 11:12:31,663 - INFO - Unauthorized face detected at 2025-06-30 11:12:31
+2025-06-30 11:12:32,701 - INFO - Unauthorized face detected at 2025-06-30 11:12:32
+2025-06-30 11:12:33,725 - INFO - Unauthorized face detected at 2025-06-30 11:12:33
+2025-06-30 11:12:35,415 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:12:35,422 - INFO - Unauthorized face detected at 2025-06-30 11:12:35
+2025-06-30 11:12:36,147 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:12:36,150 - INFO - Unauthorized face detected at 2025-06-30 11:12:35
+2025-06-30 11:12:36,823 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:12:36,830 - INFO - Unauthorized face detected at 2025-06-30 11:12:36
+2025-06-30 11:12:38,774 - INFO - Unauthorized face detected at 2025-06-30 11:12:38
+2025-06-30 11:12:39,736 - INFO - Unauthorized face detected at 2025-06-30 11:12:39
+2025-06-30 11:12:40,735 - INFO - Unauthorized face detected at 2025-06-30 11:12:40
+2025-06-30 11:12:41,714 - INFO - Unauthorized face detected at 2025-06-30 11:12:41
+2025-06-30 11:12:42,710 - INFO - Unauthorized face detected at 2025-06-30 11:12:42
+2025-06-30 11:12:43,695 - INFO - Unauthorized face detected at 2025-06-30 11:12:43
+2025-06-30 11:12:44,742 - INFO - Unauthorized face detected at 2025-06-30 11:12:44
+2025-06-30 11:12:45,718 - INFO - Unauthorized face detected at 2025-06-30 11:12:45
+2025-06-30 11:12:46,727 - INFO - Unauthorized face detected at 2025-06-30 11:12:46
+2025-06-30 11:12:47,727 - INFO - Unauthorized face detected at 2025-06-30 11:12:47
+2025-06-30 11:12:48,690 - INFO - Unauthorized face detected at 2025-06-30 11:12:48
+2025-06-30 11:12:49,676 - INFO - Unauthorized face detected at 2025-06-30 11:12:49
+2025-06-30 11:12:50,664 - INFO - Unauthorized face detected at 2025-06-30 11:12:50
+2025-06-30 11:12:51,680 - INFO - Unauthorized face detected at 2025-06-30 11:12:51
+2025-06-30 11:12:52,669 - INFO - Unauthorized face detected at 2025-06-30 11:12:52
+2025-06-30 11:12:54,308 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:12:54,311 - INFO - Unauthorized face detected at 2025-06-30 11:12:54
+2025-06-30 11:12:55,273 - INFO - Unauthorized face detected at 2025-06-30 11:12:54
+2025-06-30 11:12:56,246 - INFO - Unauthorized face detected at 2025-06-30 11:12:55
+2025-06-30 11:12:57,210 - INFO - Unauthorized face detected at 2025-06-30 11:12:56
+2025-06-30 11:12:58,185 - INFO - Unauthorized face detected at 2025-06-30 11:12:57
+2025-06-30 11:12:59,218 - INFO - Unauthorized face detected at 2025-06-30 11:12:58
+2025-06-30 11:13:00,215 - INFO - Unauthorized face detected at 2025-06-30 11:12:59
+2025-06-30 11:13:01,230 - INFO - Unauthorized face detected at 2025-06-30 11:13:00
+2025-06-30 11:13:02,209 - INFO - Unauthorized face detected at 2025-06-30 11:13:01
+2025-06-30 11:13:03,214 - INFO - Unauthorized face detected at 2025-06-30 11:13:02
+2025-06-30 11:13:04,257 - INFO - Unauthorized face detected at 2025-06-30 11:13:03
+2025-06-30 11:13:05,270 - INFO - Unauthorized face detected at 2025-06-30 11:13:04
+2025-06-30 11:13:06,274 - INFO - Unauthorized face detected at 2025-06-30 11:13:05
+2025-06-30 11:13:07,263 - INFO - Unauthorized face detected at 2025-06-30 11:13:06
+2025-06-30 11:13:08,238 - INFO - Unauthorized face detected at 2025-06-30 11:13:07
+2025-06-30 11:13:09,214 - INFO - Unauthorized face detected at 2025-06-30 11:13:08
+2025-06-30 11:13:10,178 - INFO - Unauthorized face detected at 2025-06-30 11:13:09
+2025-06-30 11:13:11,162 - INFO - Unauthorized face detected at 2025-06-30 11:13:10
+2025-06-30 11:13:12,187 - INFO - Unauthorized face detected at 2025-06-30 11:13:11
+2025-06-30 11:13:13,169 - INFO - Unauthorized face detected at 2025-06-30 11:13:12
+2025-06-30 11:13:14,168 - INFO - Unauthorized face detected at 2025-06-30 11:13:13
+2025-06-30 11:13:15,168 - INFO - Unauthorized face detected at 2025-06-30 11:13:14
+2025-06-30 11:13:16,149 - INFO - Unauthorized face detected at 2025-06-30 11:13:15
+2025-06-30 11:13:17,125 - INFO - Unauthorized face detected at 2025-06-30 11:13:16
+2025-06-30 11:13:18,131 - INFO - Unauthorized face detected at 2025-06-30 11:13:17
+2025-06-30 11:13:19,140 - INFO - Unauthorized face detected at 2025-06-30 11:13:18
+2025-06-30 11:13:20,344 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:20,344 - INFO - Unauthorized face detected at 2025-06-30 11:13:19
+2025-06-30 11:13:21,614 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:21,614 - INFO - Unauthorized face detected at 2025-06-30 11:13:20
+2025-06-30 11:13:22,606 - INFO - Unauthorized face detected at 2025-06-30 11:13:22
+2025-06-30 11:13:22,801 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:22,801 - INFO - Unauthorized face detected at 2025-06-30 11:13:22
+2025-06-30 11:13:23,582 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:23,584 - INFO - Unauthorized face detected at 2025-06-30 11:13:23
+2025-06-30 11:13:23,757 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:23,757 - INFO - Unauthorized face detected at 2025-06-30 11:13:23
+2025-06-30 11:13:24,758 - INFO - Unauthorized face detected at 2025-06-30 11:13:24
+2025-06-30 11:13:24,961 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:24,963 - INFO - Unauthorized face detected at 2025-06-30 11:13:24
+2025-06-30 11:13:26,446 - INFO - Unauthorized face detected at 2025-06-30 11:13:25
+2025-06-30 11:13:26,622 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:26,624 - INFO - Unauthorized face detected at 2025-06-30 11:13:25
+2025-06-30 11:13:27,666 - INFO - Unauthorized face detected at 2025-06-30 11:13:27
+2025-06-30 11:13:28,525 - INFO - Unauthorized face detected at 2025-06-30 11:13:27
+2025-06-30 11:13:30,174 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:30,174 - INFO - Unauthorized face detected at 2025-06-30 11:13:29
+2025-06-30 11:13:30,358 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:30,358 - INFO - Unauthorized face detected at 2025-06-30 11:13:29
+2025-06-30 11:13:31,430 - INFO - Unauthorized face detected at 2025-06-30 11:13:30
+2025-06-30 11:13:31,622 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:31,622 - INFO - Unauthorized face detected at 2025-06-30 11:13:30
+2025-06-30 11:13:32,077 - INFO - Unauthorized face detected at 2025-06-30 11:13:30
+2025-06-30 11:13:32,246 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:32,246 - INFO - Unauthorized face detected at 2025-06-30 11:13:30
+2025-06-30 11:13:33,290 - INFO - Unauthorized face detected at 2025-06-30 11:13:32
+2025-06-30 11:13:33,705 - INFO - Unauthorized face detected at 2025-06-30 11:13:32
+2025-06-30 11:13:34,165 - INFO - Unauthorized face detected at 2025-06-30 11:13:32
+2025-06-30 11:13:35,198 - INFO - Unauthorized face detected at 2025-06-30 11:13:34
+2025-06-30 11:13:36,094 - INFO - Unauthorized face detected at 2025-06-30 11:13:34
+2025-06-30 11:13:36,294 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 11:13:36,294 - INFO - Unauthorized face detected at 2025-06-30 11:13:34
+2025-06-30 11:13:38,262 - INFO - Unauthorized face detected at 2025-06-30 11:13:36
+2025-06-30 11:13:39,254 - INFO - Unauthorized face detected at 2025-06-30 11:13:38
+2025-06-30 11:13:40,238 - INFO - Unauthorized face detected at 2025-06-30 11:13:39
+2025-06-30 11:13:41,288 - INFO - Unauthorized face detected at 2025-06-30 11:13:40
+2025-06-30 11:13:42,306 - INFO - Unauthorized face detected at 2025-06-30 11:13:41
+2025-06-30 15:42:24,676 - INFO - Unauthorized face detected at 2025-06-30 15:42:10
+2025-06-30 15:42:24,875 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:42:24,896 - INFO - Unauthorized face detected at 2025-06-30 15:42:10
+2025-06-30 15:42:25,690 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:42:25,697 - INFO - Unauthorized face detected at 2025-06-30 15:42:25
+2025-06-30 15:42:26,414 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:42:26,414 - INFO - Unauthorized face detected at 2025-06-30 15:42:26
+2025-06-30 15:42:27,555 - INFO - Unauthorized face detected at 2025-06-30 15:42:27
+2025-06-30 15:42:29,848 - INFO - Unauthorized face detected at 2025-06-30 15:42:29
+2025-06-30 15:42:31,107 - INFO - Unauthorized face detected at 2025-06-30 15:42:30
+2025-06-30 15:42:32,274 - INFO - Unauthorized face detected at 2025-06-30 15:42:31
+2025-06-30 15:42:33,454 - INFO - Unauthorized face detected at 2025-06-30 15:42:32
+2025-06-30 15:42:34,763 - INFO - Unauthorized face detected at 2025-06-30 15:42:34
+2025-06-30 15:42:36,054 - INFO - Unauthorized face detected at 2025-06-30 15:42:35
+2025-06-30 15:42:37,283 - INFO - Unauthorized face detected at 2025-06-30 15:42:36
+2025-06-30 15:42:38,548 - INFO - Unauthorized face detected at 2025-06-30 15:42:38
+2025-06-30 15:42:39,774 - INFO - Unauthorized face detected at 2025-06-30 15:42:39
+2025-06-30 15:42:40,945 - INFO - Unauthorized face detected at 2025-06-30 15:42:40
+2025-06-30 15:42:42,132 - INFO - Unauthorized face detected at 2025-06-30 15:42:41
+2025-06-30 15:42:43,370 - INFO - Unauthorized face detected at 2025-06-30 15:42:42
+2025-06-30 15:42:44,566 - INFO - Unauthorized face detected at 2025-06-30 15:42:44
+2025-06-30 15:42:45,767 - INFO - Unauthorized face detected at 2025-06-30 15:42:45
+2025-06-30 15:42:47,008 - INFO - Unauthorized face detected at 2025-06-30 15:42:46
+2025-06-30 15:42:48,183 - INFO - Unauthorized face detected at 2025-06-30 15:42:47
+2025-06-30 15:42:49,476 - INFO - Unauthorized face detected at 2025-06-30 15:42:48
+2025-06-30 15:42:50,758 - INFO - Unauthorized face detected at 2025-06-30 15:42:50
+2025-06-30 15:42:52,032 - INFO - Unauthorized face detected at 2025-06-30 15:42:51
+2025-06-30 15:42:53,337 - INFO - Unauthorized face detected at 2025-06-30 15:42:52
+2025-06-30 15:42:54,539 - INFO - Unauthorized face detected at 2025-06-30 15:42:53
+2025-06-30 15:42:55,725 - INFO - Unauthorized face detected at 2025-06-30 15:42:55
+2025-06-30 15:42:56,961 - INFO - Unauthorized face detected at 2025-06-30 15:42:56
+2025-06-30 15:43:01,512 - INFO - Unauthorized face detected at 2025-06-30 15:43:01
+2025-06-30 15:43:02,805 - INFO - Unauthorized face detected at 2025-06-30 15:43:02
+2025-06-30 15:53:17,913 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:17,913 - INFO - Unauthorized face detected at 2025-06-30 15:53:17
+2025-06-30 15:53:18,214 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:18,214 - INFO - Unauthorized face detected at 2025-06-30 15:53:18
+2025-06-30 15:53:18,582 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:18,582 - INFO - Unauthorized face detected at 2025-06-30 15:53:18
+2025-06-30 15:53:18,949 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:18,949 - INFO - Unauthorized face detected at 2025-06-30 15:53:18
+2025-06-30 15:53:19,374 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:19,374 - INFO - Unauthorized face detected at 2025-06-30 15:53:19
+2025-06-30 15:53:19,675 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:19,675 - INFO - Unauthorized face detected at 2025-06-30 15:53:19
+2025-06-30 15:53:19,991 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:19,997 - INFO - Unauthorized face detected at 2025-06-30 15:53:19
+2025-06-30 15:53:20,791 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:20,791 - INFO - Unauthorized face detected at 2025-06-30 15:53:20
+2025-06-30 15:53:21,542 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 15:53:21,550 - INFO - Unauthorized face detected at 2025-06-30 15:53:21
+2025-06-30 16:05:27,135 - INFO - Unauthorized face detected at 2025-06-30 16:05:14
+2025-06-30 16:05:28,259 - INFO - Unauthorized face detected at 2025-06-30 16:05:27
+2025-06-30 16:05:29,367 - INFO - Unauthorized face detected at 2025-06-30 16:05:28
+2025-06-30 16:05:31,672 - INFO - Unauthorized face detected at 2025-06-30 16:05:31
+2025-06-30 16:05:32,777 - INFO - Unauthorized face detected at 2025-06-30 16:05:32
+2025-06-30 16:05:33,923 - INFO - Unauthorized face detected at 2025-06-30 16:05:33
+2025-06-30 16:05:35,160 - INFO - Unauthorized face detected at 2025-06-30 16:05:34
+2025-06-30 16:05:36,283 - INFO - Unauthorized face detected at 2025-06-30 16:05:35
+2025-06-30 16:05:37,460 - INFO - Unauthorized face detected at 2025-06-30 16:05:36
+2025-06-30 16:05:37,699 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:05:37,702 - INFO - Unauthorized face detected at 2025-06-30 16:05:36
+2025-06-30 16:05:40,089 - INFO - Unauthorized face detected at 2025-06-30 16:05:39
+2025-06-30 16:05:41,219 - INFO - Unauthorized face detected at 2025-06-30 16:05:40
+2025-06-30 16:05:42,442 - INFO - Unauthorized face detected at 2025-06-30 16:05:41
+2025-06-30 16:05:43,531 - INFO - Unauthorized face detected at 2025-06-30 16:05:43
+2025-06-30 16:05:44,791 - INFO - Unauthorized face detected at 2025-06-30 16:05:44
+2025-06-30 16:05:45,559 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:05:45,559 - INFO - Unauthorized face detected at 2025-06-30 16:05:45
+2025-06-30 16:05:46,461 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:05:46,461 - INFO - Unauthorized face detected at 2025-06-30 16:05:46
+2025-06-30 16:05:51,483 - INFO - Unauthorized face detected at 2025-06-30 16:05:50
+2025-06-30 16:05:53,198 - INFO - Unauthorized face detected at 2025-06-30 16:05:52
+2025-06-30 16:05:53,407 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:05:53,408 - INFO - Unauthorized face detected at 2025-06-30 16:05:52
+2025-06-30 16:05:54,291 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:05:54,297 - INFO - Unauthorized face detected at 2025-06-30 16:05:54
+2025-06-30 16:05:54,545 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:05:54,549 - INFO - Unauthorized face detected at 2025-06-30 16:05:54
+2025-06-30 16:05:55,443 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:05:55,447 - INFO - Unauthorized face detected at 2025-06-30 16:05:55
+2025-06-30 16:05:56,579 - INFO - Unauthorized face detected at 2025-06-30 16:05:56
+2025-06-30 16:05:57,748 - INFO - Unauthorized face detected at 2025-06-30 16:05:57
+2025-06-30 16:05:58,968 - INFO - Unauthorized face detected at 2025-06-30 16:05:58
+2025-06-30 16:06:08,315 - INFO - Unauthorized face detected at 2025-06-30 16:06:07
+2025-06-30 16:06:08,569 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:06:08,569 - INFO - Unauthorized face detected at 2025-06-30 16:06:07
+2025-06-30 16:06:12,158 - INFO - Unauthorized face detected at 2025-06-30 16:06:09
+2025-06-30 16:10:06,962 - INFO - Unauthorized face detected at 2025-06-30 16:10:04
+2025-06-30 16:10:08,124 - INFO - Unauthorized face detected at 2025-06-30 16:10:07
+2025-06-30 16:10:09,250 - INFO - Unauthorized face detected at 2025-06-30 16:10:08
+2025-06-30 16:10:10,451 - INFO - Unauthorized face detected at 2025-06-30 16:10:09
+2025-06-30 16:10:11,640 - INFO - Unauthorized face detected at 2025-06-30 16:10:11
+2025-06-30 16:10:12,833 - INFO - Unauthorized face detected at 2025-06-30 16:10:12
+2025-06-30 16:10:13,966 - INFO - Unauthorized face detected at 2025-06-30 16:10:13
+2025-06-30 16:10:17,731 - INFO - Unauthorized face detected at 2025-06-30 16:10:15
+2025-06-30 16:19:49,802 - INFO - Unauthorized face detected at 2025-06-30 16:19:47
+2025-06-30 16:19:50,888 - INFO - Unauthorized face detected at 2025-06-30 16:19:50
+2025-06-30 16:19:54,908 - INFO - Unauthorized face detected at 2025-06-30 16:19:54
+2025-06-30 16:19:56,028 - INFO - Unauthorized face detected at 2025-06-30 16:19:55
+2025-06-30 16:20:01,803 - INFO - Unauthorized face detected at 2025-06-30 16:20:01
+2025-06-30 16:20:15,924 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:20:15,924 - INFO - Unauthorized face detected at 2025-06-30 16:20:15
+2025-06-30 16:20:16,855 - ERROR - Face recognition error: Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+2025-06-30 16:20:16,859 - INFO - Unauthorized face detected at 2025-06-30 16:20:16
